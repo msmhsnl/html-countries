@@ -4,5 +4,21 @@
   font-family: "Nunito Sans", sans-serif;
 }
 
+.main-container {
+  background-color: #202d36;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.page-header {
+  background-color: #2b3743;
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 24px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+
 @media only screen and (max-width: 768px) {
 }
