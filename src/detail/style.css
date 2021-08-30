@@ -1,0 +1,20 @@
+.page-content {
+  color: #ffffff;
+}
+
+.flag-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.btn {
+  border: none;
+  background-color: #2b3743;
+  box-shadow: 0 0 7px #000000;
+  color: #ffffff;
+}
+
+.border-countries {
+  line-height: 40px;
+}

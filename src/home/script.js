@@ -77,7 +77,7 @@ function fillCards(data) {
 
   $(data).each(function () {
     let countryData = $(this)[0];
-    let detailUrl = "../detail/detail.html?code=" + countryData.alpha2Code;
+    let detailUrl = "../detail/detail.html?code=" + countryData.alpha3Code;
 
     cardGenerator(
       detailUrl,
